@@ -2,7 +2,7 @@ define(['pipAPI', 'https://cdn.jsdelivr.net/gh/baranan/minno-tasks@0.*/IAT/iat10
     var API = new APIConstructor();
 	
 	return iatExtension({
-		isTouch:true,
+		
 		category1 : {
 			name : 'Black people', //Will appear in the data.
 			title : {
